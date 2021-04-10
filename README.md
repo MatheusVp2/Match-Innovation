@@ -12,7 +12,7 @@ Principalmente a pedido do hackaton, era necessario fazer em Java contudo a orga
 - [KnexJs](http://knexjs.org/)
 - [Nodemailer](https://nodemailer.com/about/)
 
-Sql para gera o banco de dados [DATABASE][./database.sql] <br>
+Sql para gera o banco de dados [Script-SQL](./database.sql) contendo dados de usuario para teste de desenvolvimento fictício <br>
 Lembrando que dependendo do banco da dados que for utilizar verificar no [KnexJs](http://knexjs.org/) qual dependencia baixar para utilizar no DB_CLIENT no .env
 
 ## 🎲 Rodando a aplicação
