@@ -5,6 +5,14 @@
 ### :information_source: Informações
 Projeto para o Hackaton do INPI, com o desenvolvimento do BackEnd para utilização do protótipo de nossa solução, assim fazendo uma simples API, como modelo para nosso <b>Match Innovation</b>.
 
+### 🚀 Equipe Top 5
+- [Renata Lino](https://www.linkedin.com/in/renatalino/)
+- [Alexandre Hieda Sassaki](https://www.linkedin.com/in/alexandre-hieda-sassaki/)
+- [Matheus Oliveira F. Ribeiro](https://www.linkedin.com/in/matheus-o-f-ribeiro/)
+- [Raquel Girelli](https://www.instagram.com/raquelgirelli/)
+- [Ronaldo Barros](https://www.linkedin.com/in/ronaldobarros/)
+
+
 ### ✨ Tecnologias
 Principalmente a pedido do hackaton, era necessário fazer em Java contudo a organização acabou liberando a utilização de outras linguagens para a funcionalidade, pontuando que em Java ainda teria mais margem para avaliação, inicialmente ate estava estudando o Java para tentar fazer BackEnd do protótipo, legal que deu para aprender um pouco sobre a linguagem em si, porem estava tomando muito tempo e poderia não entregar um protótipo simples, acabei optando por fazer em uma linguagem que já tinha um pouco mais de conhecimento no caso o Javascript utilizando o NodeJs !
 
